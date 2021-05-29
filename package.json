@@ -1,0 +1,22 @@
+{
+  "name": "jsblockchain",
+  "version": "1.0.0",
+  "description": "A simple blockchain implementation in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/toadslop/simpleblockchain.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Toadslop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toadslop/simpleblockchain/issues"
+  },
+  "homepage": "https://github.com/toadslop/simpleblockchain#readme"
+}
