@@ -19,5 +19,8 @@
 	"bugs": {
 		"url": "https://github.com/toadslop/simpleblockchain/issues"
 	},
-	"homepage": "https://github.com/toadslop/simpleblockchain#readme"
+	"homepage": "https://github.com/toadslop/simpleblockchain#readme",
+	"devDependencies": {
+		"jest": "^27.0.1"
+	}
 }
